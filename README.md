@@ -1,4 +1,1 @@
-# Minesweeper
-
-Minesweeper game 
- 
+# Buscaminas
